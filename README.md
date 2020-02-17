@@ -1,6 +1,14 @@
-# coffeeshop
+# coffeeshop - tips and tricks for IFE-BATs python users
+
 IFEs battery brainstorming and ideas
 
-Jan Petter Maehlen
-Julia
-Vilde
+1. [Some `ipywidget` tricks](ipywidgets.md)
+2. Another.
+
+## Authors
+
+- Carl Erik
+- Jan Petter
+- Julia
+- Vilde
+- Embla
